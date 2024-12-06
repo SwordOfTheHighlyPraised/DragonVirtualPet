@@ -16972,7 +16972,7 @@ MonoBehaviour:
   eggImage: {fileID: 1100680515}
   babyObject: {fileID: 1923465436}
   eggAnimator: {fileID: 1100680516}
-  hatchTimer: 10
+  hatchTimer: 60
   gameStarted: 0
   audioSource: {fileID: 845448273}
   hatchSound: {fileID: 8300000, guid: cc67775e6a4a22441a0b343f5e421d45, type: 3}
